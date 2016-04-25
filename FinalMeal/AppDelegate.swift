@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  FinalMeal
+//  MealManagerFinal
 //
-//  Created by HChlebek on 4/25/16.
+//  Created by HChlebek on 4/14/16.
 //  Copyright © 2016 HChlebek. All rights reserved.
 //
 
